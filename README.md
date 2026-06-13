@@ -1,3 +1,3 @@
-## Hi there 👋
+## Mukhlas Adib
 
-My name is Mukhlas Adib
+A Machine Learning Engineer specialized in Computer Vision, AI @ Edge, IoT, and MLOps
